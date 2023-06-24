@@ -9,6 +9,7 @@ Rule:
 
 1. Program kecil bernama "ApaBole"   
 Tolong print angka dari 1 sampai 100. Tetapi, Ada peraturan khusus:
+
    1. Untuk setiap angka yang bisa dibagi dengan 3, jangan print angka nya, tapi prin
    2. Kalau bisa dibagi dengan 5, print "Bole"
    3. Kalau bisa dibagi oleh 3 dan 5, print "ApaBole".
@@ -18,6 +19,7 @@ Tes pertama dengan nama program "ApaBole"
 ![SS ApaBole](https://github.com/HyouBrend/Mini-Test/assets/99526956/13d29031-6789-4785-9ec1-aeedcea133bb)
 
 2. Menampilkan ramalan cuaca kota Jakarta untuk 5 hari kedepan
+   
    1. Silakan gunakan API yang disediakan http://openweathermap.org
    2. Tolong tampilkan output berupa ramalan cuaca kota Jakarta untuk 5 hari ke depan
    3. Yang ditampilkan hanya 1 suhu per hari
