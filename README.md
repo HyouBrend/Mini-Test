@@ -26,4 +26,4 @@ II. Menampilkan ramalan cuaca kota Jakarta untuk 5 hari kedepan:
   4. Soal ini tidak membutuhkan akun berbayar.
 
 Hasil tes kedua dengan nama program "Perkiraan Cuaca Kota Jakarta 5 Hari Kedepan"
-![SS Cuaca](https://github.com/HyouBrend/Mini-Test/assets/99526956/3dd8e843-9f7e-4400-bd63-946725138da3)
+![image](https://github.com/HyouBrend/Mini-Test/assets/99526956/d4dfac80-77f3-449a-abf2-7236a66c2212)
