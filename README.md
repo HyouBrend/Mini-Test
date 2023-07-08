@@ -16,7 +16,7 @@ Tolong print angka dari 1 sampai 100. Tetapi, Ada peraturan khusus:
   4. Mohon format output disamakan dengan hasil terlampir (harus menyamping seperti yang dicontohkan, tidak dengan baris baru, ataupun yang lainnya)
 
 Hasil tes pertama dengan nama program "ApaBole"
-![SS ApaBole](https://github.com/HyouBrend/Mini-Test/assets/99526956/13d29031-6789-4785-9ec1-aeedcea133bb)
+![image](https://github.com/HyouBrend/Mini-Test/assets/99526956/1fc3ccdb-002f-4493-97dd-4d40227f3ad0)
 
 
 II. Menampilkan ramalan cuaca kota Jakarta untuk 5 hari kedepan:
